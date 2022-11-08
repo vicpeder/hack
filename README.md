@@ -1,6 +1,1 @@
-Dette er en test
-balle
-jeg gjorde en annen endring
-balletryne
-
-asdfasdf
+Ta deg en bolle og gjør deg klar for hardcore pwning.
